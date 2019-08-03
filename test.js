@@ -8,3 +8,5 @@ console.log('test');
 
 
 var temp = 'test';
+
+var geen_camelcase = "en geen quotes"

@@ -12,3 +12,5 @@ var temp = 'test';
 var geen_camelcase = "en geen quotes";
 
 // TODO waarom?
+
+if (temp == geen_camelcase) return true;

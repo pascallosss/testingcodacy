@@ -1,5 +1,7 @@
 {
     "asi": true,
+    "quotmark": "single",
+    "camelcase": true,
     "bitwise": true,
     "browser": false,
     "curly": true,
